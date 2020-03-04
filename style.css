@@ -267,6 +267,30 @@ td, th {
         width: 100%;
     }
 
+    .produtos, .contato-main, fieldset {
+        width: auto;
+
+    }
+
+    .produtos li {
+        width: 95%;
+        display: block;
+        margin: 20px auto;
+    }
+
+    .input-padrao {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .tabela-horarios {
+        margin: 0 auto;
+    }
+
+    .enviar {
+        width: 100%;
+        margin: 0 auto;
+    }
+
 }
 
 
